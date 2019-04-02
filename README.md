@@ -1,5 +1,5 @@
 # Solar_System
-Simple C++ Graphics.i.e.graphics.h
+Simple C++ Graphics using basic 'graphics.h' library.
 
 Welcoming Screen
 
@@ -30,5 +30,5 @@ The first among Kepler's 3 Laws states :
 
 Solar System with elliptical orbit
 
-![Solar System with elliptical orbit](https://github.com/Kashyap-Nirmal/Solar_System/blob/master/Solar System.jpg)
+![Solar System with elliptical orbit](https://github.com/Kashyap-Nirmal/Solar_System/blob/master/Solar_System.jpg)
 
