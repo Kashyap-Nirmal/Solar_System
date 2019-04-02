@@ -26,4 +26,4 @@ Helio Centric Solar System
 The first among Kepler's 3 Laws states :
      “The orbit of a planet is 	an ellipse with the 	Sun 	at one 	of the 	two foci.”
 
-![Helio Centric Solar System](https://github.com/Kashyap-Nirmal/Solar_System/blob/master/Heliocentric.png)
+![Helio Centric Solar System](https://github.com/Kashyap-Nirmal/Solar_System/blob/master/Heliocentric.jpg)
